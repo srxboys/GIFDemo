@@ -16,6 +16,6 @@
 -
 
 
-//原作者:liyong03
-https://github.com/liyong03/YLGIFImage
+//原作者:liyong03 <br />
+https://github.com/liyong03/YLGIFImage <br />
 https://github.com/liyong03/SDWebImage-YLGIFImage
