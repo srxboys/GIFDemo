@@ -5,6 +5,12 @@
 -
 ## EXAMPLE
 ```objc
+//本地gif
+NSData * data = [NSData dataWithContentsOfFile:本地地址];
+UIImage* gifImg = [YLGIFImage imageWithData:data];
+imgView.image = gifImg;
+
+//网络gif
 [_imgView sd_setImageWithURL:[NSURL URLWithString:图片地址字符串]];
 ```
 -
