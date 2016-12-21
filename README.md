@@ -4,6 +4,7 @@
 
 -
 ## EXAMPLE
+```objc
 [_imgView sd_setImageWithURL:[NSURL URLWithString:图片地址字符串]];
 ```
 -
