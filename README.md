@@ -1,4 +1,4 @@
-# RXGetAddressBook
+# GIFDemo
 * gif 基于SDWebImage 动图随便玩【srxboys】
 * 亲测 
 
@@ -9,8 +9,9 @@
 -
 
 ###效果图(如下):
--
-![RXGifDemo](https://github.com/srxboys/GIFDemo/blob/master/gifDemo.gif) 
+
+![srxboys_RXGifDemo](https://github.com/srxboys/GIFDemo/blob/master/gifDemo.gif) 
+
 -
 
 
